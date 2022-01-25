@@ -1,0 +1,129 @@
+.navbar-brand {
+    padding: 15px;
+    font-weight: bold;
+    background-color: #1dc99e;
+    margin-left: 50px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    border-radius: 5px;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+    font-size: 20px; 
+  }
+  
+img {
+    width:100% ;
+    height:100%;
+}
+
+h1 {
+    color: #1dc99e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+h3 {
+    color: #1dc99e;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+  }
+
+p {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: normal;
+}
+
+.box {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    padding: 20px 20px 20px;
+    background-color: white;
+}
+
+.box1 {
+    margin-top: 60px;
+    margin-bottom: 100px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: white;
+}
+
+.container {
+    background-color:blanchedalmond;
+ }
+
+#data {
+    background-color:blanchedalmond;
+    padding: 30px;
+}
+
+#header {
+    margin-left: 20px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.title {
+    color: #1dc99e;
+    text-align: center;
+    margin-top: 10px;
+    font-size: xx-large;
+    font-weight: 600;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    padding: 10px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+th {
+    padding: 5px;  
+    text-align: center;
+}
+
+#navbarSupportedContent {
+    margin-right: 100px;
+}
+
+.panel-body {
+    background-color: whitesmoke;
+}
+
+.form_group {
+    background-color: blueviolet;
+}
+
+.panel-heading {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#filter-btn {
+    padding: 5px;
+    font-weight: bold;
+    background-color: lightskyblue; 
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    margin-left: 25px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+@media(max-width: 992px) {
+
+.navbar {
+    max-height: none;
+    padding: inherit;
+}
+.navbar-brand {
+    padding: 10px;
+}
+
+}
+

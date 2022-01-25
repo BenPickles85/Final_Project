@@ -1,0 +1,340 @@
+Team,Position ID,Assigned_To,Claim Number,Task_Type,Task Created,Current Due Date,Days Since Received,Days_Category,Payment System
+01,4447,,08190013130,INV: Medical and Like Other,2021-12-13 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Acction
+01,5988,,04200048969,INV: Allied Health,2021-12-22 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+06,4465,,08210039654,INV: Employer Liability,2021-12-08 00:00:00,2021-12-08 00:00:00,37,1 - Over 30 Days,Tempus
+07,4474,,04180010295,INV: Impairment Benefits,2021-12-14 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Acction
+07,4474,,08190057989,INV: Medical Practitioner,2021-12-07 00:00:00,2021-12-07 00:00:00,38,1 - Over 30 Days,Tempus
+07,4474,,08190057989,INV: Medical Practitioner,2021-12-08 00:00:00,2021-12-07 00:00:00,38,1 - Over 30 Days,Tempus
+07,4474,,08190057989,INV: Allied Health,2021-12-07 00:00:00,2021-12-07 00:00:00,38,1 - Over 30 Days,Tempus
+07,4474,,08190057989,INV: Allied Health,2021-12-08 00:00:00,2021-12-07 00:00:00,38,1 - Over 30 Days,Tempus
+07,4474,,08200026910,INV: Medical Practitioner,2021-12-03 00:00:00,2021-12-01 00:00:00,44,1 - Over 30 Days,Acction
+07,4474,,08200026910,INV: THP Report,2021-12-07 00:00:00,2021-12-03 00:00:00,42,1 - Over 30 Days,Acction
+07,4474,,08200026910,INV: THP Report,2021-12-07 00:00:00,2021-12-03 00:00:00,42,1 - Over 30 Days,Acction
+07,4474,,08200026910,INV: THP Report,2021-12-07 00:00:00,2021-12-03 00:00:00,42,1 - Over 30 Days,Acction
+07,4474,,08200026910,INV: Allied Health,2021-12-03 00:00:00,2021-12-01 00:00:00,44,1 - Over 30 Days,Tempus
+07,4474,,08200026910,INV: Allied Health,2021-12-07 00:00:00,2021-12-03 00:00:00,42,1 - Over 30 Days,Tempus
+A1,8241,Sharman Green,08200040792,INV: Personal and Household,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+A1,8252,Maria Ciconte,08200024938,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+A1,8264,Kevin Nguyen,08200043508,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Unallocated
+A1,8264,Kevin Nguyen,08200045784,INV: Worker Reimbursement,2022-01-07 00:00:00,2022-01-10 00:00:00,8,3 - Under 20 Days,Unallocated
+A1,8264,Kevin Nguyen,08210001585,INV: Worker Reimbursement,2021-12-10 00:00:00,2021-12-08 00:00:00,37,1 - Over 30 Days,Unallocated
+A1,8267,Marcus Bubis,04200002620,INV: Return to Work,2021-12-23 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+A1,8267,Marcus Bubis,08200030058,INV: Medical Practitioner,2021-12-16 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Unallocated
+A1,8267,Marcus Bubis,08200066747,INV: Allied Health,2021-12-15 00:00:00,2021-12-14 00:00:00,31,1 - Over 30 Days,Acction
+A1,8267,Marcus Bubis,08210042353,INV: Employer Liability,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+A1,8268,Caroline Puamau,04200016726,INV: Worker Reimbursement,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+A1,8268,Caroline Puamau,08200024284,INV: Worker Reimbursement,2021-12-17 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+A1,8268,Caroline Puamau,08200062385,INV: Personal and Household,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+A1,8268,Caroline Puamau,08200079954,INV: Employer Liability,2022-01-10 00:00:00,2021-12-31 00:00:00,14,3 - Under 20 Days,Unallocated
+A1,8268,Caroline Puamau,08210028623,INV: Allied Health,2021-12-31 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Tempus
+A1,8268,Caroline Puamau,08210043080,INV: Employer Liability,2022-01-07 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Unallocated
+A1,10617,,08160056732,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Unallocated
+A1,10618,,08160063770,INV: Worker Reimbursement,2022-01-05 00:00:00,2022-01-04 00:00:00,10,3 - Under 20 Days,Unallocated
+A1,10618,,08200062806,INV: Medical Practitioner,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Tempus
+A1,10618,,08200065382,INV: Employer Liability,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+A1,10618,,08200065382,INV: Employer Liability,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+A1,10618,,08210026748,INV: Employer Liability,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+A2,8269,Emily Tee,08210023848,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+A2,8270,Inga Nguyen,08210035179,INV: Personal and Household,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+A2,8270,Inga Nguyen,08210035917,INV: Worker Reimbursement,2021-12-15 00:00:00,2021-12-14 00:00:00,31,1 - Over 30 Days,Unallocated
+A2,8270,Inga Nguyen,08210041163,INV: Employer Liability,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+A2,8271,Bircan Faki,08200026253,INV: THP Report,2021-12-24 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+A2,8271,Bircan Faki,08200065162,INV: Medical Practitioner,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+A2,8271,Bircan Faki,08210037627,INV: Pharmacy,2021-12-31 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+A2,9450,Alexandra Traversa,04200026156,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+A2,9450,Alexandra Traversa,08200038270,INV: Personal and Household,2021-12-09 00:00:00,2021-12-08 00:00:00,37,1 - Over 30 Days,Unallocated
+A2,9450,Alexandra Traversa,08200060002,INV: Worker Reimbursement,2021-12-21 00:00:00,2021-12-29 00:00:00,24,2 - 20 to 30 Days,Unallocated
+A2,9450,Alexandra Traversa,08200060002,INV: Allied Health,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+A2,10625,Eden Sarup,08180055496,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+A2,10625,Eden Sarup,08180055496,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+A2,10625,Eden Sarup,08200073086,INV: Medical and Like Other,2021-12-21 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+A2,10625,Eden Sarup,08210016965,INV: THP Report,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+A2,10625,Eden Sarup,08210040410,INV: Surgeon,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+A2,10625,Eden Sarup,08210041503,INV: Employer Liability,2022-01-11 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+A2,10626,Alev Babayigit,08200011624,INV: Allied Health,2021-12-13 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Acction
+A2,10626,Alev Babayigit,08200020547,INV: Employer Liability,2021-12-30 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Tempus
+A2,10626,Alev Babayigit,08210036819,INV: Employer Liability,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+AV,10404,Tatum Pennell,08200081049,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Tempus
+AV,10786,Maria Wesley,08210000955,INV: Hospital,2022-01-13 00:00:00,2022-01-13 00:00:00,1,3 - Under 20 Days,Acction
+AV,11184,Tony Nguyen,08200060756,INV: Hospital,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+AV,11184,Tony Nguyen,08210039845,INV: Employer Liability,2022-01-10 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Unallocated
+B1,8260,Kiah Wiseman,08200071790,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+B1,8260,Kiah Wiseman,08210012011,INV: Return to Work,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+B1,8260,Kiah Wiseman,08210033045,INV: Hospital,2021-12-23 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Unallocated
+B1,8274,Will Garvie,04190100674,INV: Worker Reimbursement,2022-01-04 00:00:00,2021-12-31 00:00:00,14,3 - Under 20 Days,Unallocated
+B1,8274,Will Garvie,08170052234,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+B1,8275,Sumaya Kulmiye,08210039654,INV: Employer Liability,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+B1,8275,Sumaya Kulmiye,08210039654,INV: Employer Liability,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+B1,8275,Sumaya Kulmiye,08210039654,INV: Employer Liability,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+B1,8275,Sumaya Kulmiye,08210044526,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Acction
+B1,8276,Jeremiah Dudley,08200027702,INV: Medical Practitioner,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+B1,8276,Jeremiah Dudley,08200058674,INV: Personal and Household,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Unallocated
+B1,8278,,08210010327,INV: Hospital,2022-01-04 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+B1,8278,,08210010327,INV: Surgeon,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+B1,8637,,08200077655,INV: Employer Liability,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+B1,8637,,08210036411,INV: Employer Liability,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+B1,9191,Jason Lee,08190054924,INV: Medical Practitioner,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+B1,9191,Jason Lee,08190054924,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+B1,9191,Jason Lee,08190054924,INV: Surgeon,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+B1,10621,Simone Simpson,08210023806,INV: Medical and Like Other,2022-01-12 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+B1,10621,Simone Simpson,08210042612,INV: Worker Reimbursement,2022-01-07 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Acction
+B2,8244,Brayden Dyer,08200031879,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+B2,8261,Jessica Williamson,08200066886,INV: Worker Reimbursement,2022-01-04 00:00:00,2022-01-04 00:00:00,10,3 - Under 20 Days,Unallocated
+B2,8261,Jessica Williamson,08200070089,INV: Personal and Household,2021-12-14 00:00:00,2021-12-10 00:00:00,35,1 - Over 30 Days,Acction
+B2,8261,Jessica Williamson,08210020294,INV: Worker Reimbursement,2022-01-05 00:00:00,2022-01-04 00:00:00,10,3 - Under 20 Days,Acction
+B2,8261,Jessica Williamson,08210028131,INV: Allied Health,2021-12-23 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+B2,8261,Jessica Williamson,08210040591,INV: Employer Liability,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+B2,8281,Nicholas Lazic,08210034112,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+B2,8856,Emma-Lee Stenner,08210006784,INV: Personal and Household,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+B2,8856,Emma-Lee Stenner,08210006784,INV: Personal and Household,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+B2,8856,Emma-Lee Stenner,08210006784,INV: Worker Reimbursement,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+B2,8856,Emma-Lee Stenner,08210021905,INV: Worker Reimbursement,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+B2,8856,Emma-Lee Stenner,08210024533,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+B2,10505,Nico Coad,08200034779,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+B2,10505,Nico Coad,08200036531,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+B2,10505,Nico Coad,08210011630,INV: Allied Health,2021-12-29 00:00:00,2021-12-29 00:00:00,16,3 - Under 20 Days,Tempus
+B2,10505,Nico Coad,08210032321,INV: Worker Reimbursement,2022-01-07 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Unallocated
+B2,10623,,08190021575,INV: Allied Health,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+B2,10623,,08190021575,INV: Allied Health,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+B2,10623,,08200044837,INV: Allied Health,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+B2,10623,,08210029839,INV: Medical and Like Other,2022-01-06 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Unallocated
+B2,10623,,08210031791,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Acction
+B2,10623,,08210039418,INV: Medical Practitioner,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+B2,11182,Joelissa Noel,08210044652,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+C1,11262,Ariel Lebenbaum,08200074098,INV: Employer Liability,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+C1,11263,Lia Sagote,08210043572,INV: Employer Liability,2022-01-12 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+C1,11268,Alyce Zuidland,08210022548,INV: Medical Practitioner,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+C1,11269,Andrew Hammond,08200069401,INV: Personal and Household,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+C1,11269,Andrew Hammond,08200077891,INV: Worker Reimbursement,2021-12-02 00:00:00,2021-12-02 00:00:00,43,1 - Over 30 Days,Tempus
+C1,11269,Andrew Hammond,08210016952,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Tempus
+C1,11271,Regan Wyllie,08190059987,INV: Employer Liability,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+C1,11271,Regan Wyllie,08200023997,INV: Worker Reimbursement,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+C1,11271,Regan Wyllie,08210019577,INV: Employer Liability,2022-01-12 00:00:00,2022-01-07 00:00:00,7,3 - Under 20 Days,Unallocated
+C1,11271,Regan Wyllie,08210019577,INV: Employer Liability,2021-12-21 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+C2,11275,Mollie Bodini,08200067092,INV: Surgeon,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+C2,11278,Lisa Sandford,04200017893,INV: Personal and Household,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+C2,11278,Lisa Sandford,04200034656,INV: Allied Health,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Tempus
+C2,11278,Lisa Sandford,04200036120,INV: Hospital,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+C2,11278,Lisa Sandford,04200037310,INV: IME Report,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Acction
+C2,11278,Lisa Sandford,04200047834,INV: Medical Practitioner,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+C2,11278,Lisa Sandford,08200065829,INV: Return to Work,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+C2,11279,Raoul Zambelli,08210037876,INV: Personal and Household,2021-12-17 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Unallocated
+C2,11280,Basmah Sohail,08200048545,INV: Return to Work,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+C2,11281,Peter Pan,08200077260,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+C2,11281,Peter Pan,08210027022,INV: Medical and Like Other,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+C2,11281,Peter Pan,08210039405,INV: Pharmacy,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+C2,11281,Peter Pan,08210039405,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-04 00:00:00,10,3 - Under 20 Days,Acction
+C2,11282,Hannah Jones,04200030087,INV: IME Report,2021-12-14 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Acction
+C2,11282,Hannah Jones,08200063371,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+C2,11284,Candice Nguyen,08210034125,INV: THP Report,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+C3,11889,Kathryn Jarvis,08210019234,INV: THP Report,2021-12-29 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+C3,11893,Erin Cooper,08210041545,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+C3,11894,Jasbir Chhokar,08200022079,INV: Allied Health,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Unallocated
+C3,11894,Jasbir Chhokar,08200068059,INV: Medical Practitioner,2021-12-24 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+C3,11894,Jasbir Chhokar,08200070348,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+C3,11894,Jasbir Chhokar,08210000874,INV: Medical and Like Other,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+C3,11894,Jasbir Chhokar,08210000874,INV: Surgeon,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+C3,11896,Ernest Kadiric,08200026347,INV: Return to Work,2021-12-17 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+C3,11896,Ernest Kadiric,08200029111,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+C3,11896,Ernest Kadiric,08210015704,INV: Allied Health,2021-12-14 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Tempus
+C3,11896,Ernest Kadiric,08210016787,INV: Worker Reimbursement,2021-12-30 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Acction
+C3,11896,Ernest Kadiric,12150068510,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+C3,11897,Chloe Mcdonald,08190006927,INV: Medical Practitioner,2022-01-05 00:00:00,2022-01-05 00:00:00,9,3 - Under 20 Days,Acction
+C3,11897,Chloe Mcdonald,08200068473,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+DH,9483,Stephanie Joniec,08200060691,INV: Medical and Like Other,2021-12-24 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+DH,9483,Stephanie Joniec,08210029347,INV: THP Report,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+DH,9483,Stephanie Joniec,08210032091,INV: Allied Health,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+DH,9483,Stephanie Joniec,08210042337,INV: Employer Liability,2021-12-24 00:00:00,2022-01-21 00:00:00,22,2 - 20 to 30 Days,Acction
+DH,9484,Sonal Chhabra,08210034293,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+DH,9485,Alyssa Thomas,08190040802,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+DH,9485,Alyssa Thomas,08200047106,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Tempus
+DH,9485,Alyssa Thomas,08200072867,INV: Medical and Like Other,2021-12-22 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+DH,9486,Edwina Geddes,08210021358,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+DH,9487,Sophie Ah-Sen,08200030511,INV: Query Invoice,2021-09-16 00:00:00,2021-09-20 00:00:00,116,1 - Over 30 Days,Unallocated
+DH,9487,Sophie Ah-Sen,08210017676,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Acction
+DH,9489,Julie Griffiths,08190040802,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+DH,10033,,08210024588,INV: IME Report,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+DH,10148,,08200068305,INV: Claimant Expense,2022-01-05 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+DH,11183,Upasana Jhanji,08200080493,INV: Employer Liability,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+DH,11183,Upasana Jhanji,08210031047,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-13 00:00:00,1,3 - Under 20 Days,Acction
+DR,6866,,08210006849,INV: Employer Liability,2021-09-27 00:00:00,2021-09-27 00:00:00,109,1 - Over 30 Days,Unallocated
+DR,6866,,08210021604,INV: Employer Liability,2021-11-05 00:00:00,2021-11-04 00:00:00,71,1 - Over 30 Days,Unallocated
+DR,6866,,08210024562,INV: Employer Liability,2021-12-02 00:00:00,2021-12-02 00:00:00,43,1 - Over 30 Days,Acction
+DR,6866,,09010078116,INV: Medical Practitioner,2021-12-15 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Acction
+DR,6866,,09010078116,INV: Medical Practitioner,2021-12-16 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Acction
+IB,5192,,04180044915,INV: Allied Health,2021-12-29 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,5192,,08090040562,INV: Allied Health,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+IB,5192,,08110036375,INV: Allied Health,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,5192,,08160043745,INV: Employer Liability,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+IB,5192,,08180066773,INV: Employer Liability,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,04090058664,INV: Allied Health,2021-12-10 00:00:00,2021-12-10 00:00:00,35,1 - Over 30 Days,Unallocated
+IB,6682,Emefa Manteaw,04160033564,INV: Allied Health,2021-12-15 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,04180038358,INV: Impairment Benefits,2021-12-20 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,04960031863,INV: Allied Health,2021-12-09 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,04960031863,INV: Allied Health,2021-12-10 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,08090040562,INV: Allied Health,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,08100015018,INV: Allied Health,2021-12-08 00:00:00,2022-03-31 00:00:00,37,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,08110049197,INV: Allied Health,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,08140052662,INV: Employer Liability,2021-12-09 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,08170064138,INV: Allied Health,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+IB,6682,Emefa Manteaw,08180000933,INV: Query Invoice,2021-12-14 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+IB,6682,Emefa Manteaw,08180038976,INV: Legal Costs,2021-12-15 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Unallocated
+IB,6682,Emefa Manteaw,08200015581,INV: THP Report,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,08890244102,INV: Allied Health,2021-12-09 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,08900120666,INV: Employer Liability,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,6682,Emefa Manteaw,08940113617,INV: Allied Health,2021-12-15 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Unallocated
+IB,6682,Emefa Manteaw,09030114335,INV: Allied Health,2021-12-15 00:00:00,2021-12-14 00:00:00,31,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,09950192301,INV: Employer Liability,2021-12-09 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+IB,6682,Emefa Manteaw,09990038755,INV: Allied Health,2021-12-10 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Unallocated
+IB,6682,Emefa Manteaw,12110062844,INV: Allied Health,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Unallocated
+IB,6682,Emefa Manteaw,12140059979,INV: Allied Health,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,04190049133,INV: Medical Practitioner,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,04990127190,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,08070034145,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,08180001068,INV: Allied Health,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+IB,6684,Sandra Istuk,08180066223,INV: Impairment Benefits,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,08190055156,INV: THP Report,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,08200063465,INV: Worker Reimbursement,2022-01-07 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Acction
+IB,6684,Sandra Istuk,08210033964,INV: Employer Liability,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+IB,6684,Sandra Istuk,12090110858,INV: Employer Liability,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,6685,Jacinta De Bruijn-Trapnell,08050014305,INV: Allied Health,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+IB,8723,Tania Bilos,08190017518,INV: THP Report,2021-12-23 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+IB,8723,Tania Bilos,08190047630,INV: Medical Practitioner,2021-09-14 00:00:00,2021-09-14 00:00:00,122,1 - Over 30 Days,Acction
+IB,8724,Jeff Mcmanamon,04120075834,INV: Employer Liability,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,8724,Jeff Mcmanamon,08130026792,INV: Legal Costs,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+IB,8724,Jeff Mcmanamon,08920066331,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,8724,Jeff Mcmanamon,08930028628,INV: Allied Health,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,8724,Jeff Mcmanamon,08950101839,INV: Allied Health,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+IB,8724,Jeff Mcmanamon,08990100094,INV: Allied Health,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+IB,8725,Romina Tsiapos,08190035134,INV: Allied Health,2021-12-21 00:00:00,2022-01-20 00:00:00,25,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,04200022820,INV: Employer Liability,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,04200033259,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+IB,10199,Lauren Smyth,04200033259,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,04200033259,INV: THP Report,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,04200033259,INV: Allied Health,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+IB,10199,Lauren Smyth,08040066897,INV: Allied Health,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,08120063765,INV: Legal Costs,2021-12-20 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08120063765,INV: Allied Health,2021-12-17 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08140052662,INV: Employer Liability,2021-12-17 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08160010558,INV: Allied Health,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08190001252,INV: Worker Reimbursement,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08190036777,INV: Medical Practitioner,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,08190036777,INV: THP Report,2021-12-17 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,08190036777,INV: Surgeon,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,08190045182,INV: Impairment Benefits,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+IB,10199,Lauren Smyth,08190066886,INV: Worker Reimbursement,2022-01-07 00:00:00,2022-01-07 00:00:00,7,3 - Under 20 Days,Unallocated
+IB,10199,Lauren Smyth,08200015523,INV: Legal Costs,2021-12-02 00:00:00,2021-12-01 00:00:00,44,1 - Over 30 Days,Unallocated
+IB,10199,Lauren Smyth,09140022456,INV: Employer Liability,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Unallocated
+IB,10199,Lauren Smyth,12140027011,INV: Allied Health,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+IB,11598,Jenna Reid,08160008382,INV: THP Report,2021-12-16 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Acction
+L1,9523,Nicole Burton,08200010858,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+L1,9525,Bill Taseski,08190036997,INV: IME Report,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+L1,9525,Bill Taseski,08190066844,INV: Surgeon,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+L1,10151,Angela Rassos,08190049256,INV: Medical Practitioner,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+L1,10151,Angela Rassos,08190049256,INV: Return to Work,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+L1,10734,Bianco Tang,08180070248,INV: Allied Health,2021-12-16 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Acction
+L1,11456,Vaska Ristevska,08190042839,INV: Hospital,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+L1,11456,Vaska Ristevska,08190045425,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-07 00:00:00,7,3 - Under 20 Days,Acction
+L1,11456,Vaska Ristevska,08200016933,INV: Return to Work,2022-01-12 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Unallocated
+L1,11457,Jyoti Basral,04190046783,INV: Worker Reimbursement,2021-12-13 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Unallocated
+L1,11457,Jyoti Basral,04190100166,INV: Surgeon,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+L1,11457,Jyoti Basral,04190112727,INV: Pharmacy,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+L1,11457,Jyoti Basral,08170065344,INV: THP Report,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+L1,11457,Jyoti Basral,08190067636,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Unallocated
+L2,9526,Rachael Young,12150028055,INV: Pharmacy,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+L2,9528,Ramlah Ternes,08190036159,INV: Medical Practitioner,2022-01-05 00:00:00,2022-01-05 00:00:00,9,3 - Under 20 Days,Acction
+L2,9528,Ramlah Ternes,08190049463,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Tempus
+L2,9528,Ramlah Ternes,08190061470,INV: Worker Reimbursement,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+L2,9530,Stephen Simpson,08190039936,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Tempus
+L2,11459,Brandon Wilson,08190044701,INV: Surgeon,2022-01-13 00:00:00,2022-01-13 00:00:00,1,3 - Under 20 Days,Acction
+L2,11460,Karen Williams,08190040365,INV: Surgeon,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+M1,9561,Raquel Usher,04990130174,INV: Query Invoice,2022-01-12 00:00:00,2022-01-14 00:00:00,0,3 - Under 20 Days,Unallocated
+M1,9561,Raquel Usher,14940011065,INV: Worker Reimbursement,2022-01-10 00:00:00,2022-01-14 00:00:00,4,3 - Under 20 Days,Unallocated
+M1,9562,Sarra Bakheit,08040082101,INV: Medical and Like Other,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+M1,9562,Sarra Bakheit,08940017483,INV: Medical and Like Other,2021-12-23 00:00:00,2022-01-14 00:00:00,24,2 - 20 to 30 Days,Unallocated
+M1,9564,Renee Pace,08080046194,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Tempus
+M1,9565,Ruby Bray-Cooke,08200056346,INV: Medical Practitioner,2022-01-05 00:00:00,2022-01-05 00:00:00,9,3 - Under 20 Days,Unallocated
+M1,9566,Samera Idris,04190085456,INV: Allied Health,2021-12-31 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Tempus
+M1,9575,,08010015195,INV: Surgeon,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+M1,11469,,04190045386,INV: Employer Liability,2021-12-31 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Tempus
+M2,9570,,08170005456,INV: Query Invoice,2022-01-13 00:00:00,2022-01-17 00:00:00,-3,3 - Under 20 Days,Unallocated
+M2,11470,Pina Pino,04160034822,INV: Personal and Household,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+M2,11470,Pina Pino,08080025267,INV: Allied Health,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+M2,11470,Pina Pino,08210017935,INV: Employer Liability,2022-01-06 00:00:00,2022-01-05 00:00:00,9,3 - Under 20 Days,Unallocated
+M2,11471,Ruby Barry,08910209904,INV: Surgeon,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+MM,11758,Nur-Syafiqah Khan,08210028063,INV: Employer Liability,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+MM,11758,Nur-Syafiqah Khan,08910193544,INV: Personal and Household,2021-11-30 00:00:00,2021-11-29 00:00:00,46,1 - Over 30 Days,Unallocated
+Provider Reg,0,,12150054294,INV: Register Provider,2021-10-18 00:00:00,2021-10-20 00:00:00,86,1 - Over 30 Days,Unallocated
+R1,9544,Liliana Spiliopoulos,04180030408,INV: Personal and Household,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+R1,9544,Liliana Spiliopoulos,08200020217,INV: Worker Reimbursement,2022-01-13 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Unallocated
+R1,9544,Liliana Spiliopoulos,08200032632,INV: Medical and Like Other,2021-12-23 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+R1,9545,Francois Brandares,04190050957,INV: Medical and Like Other,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+R1,9545,Francois Brandares,04190050957,INV: Medical and Like Other,2021-12-13 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Unallocated
+R1,9545,Francois Brandares,08170030191,INV: Medical and Like Other,2021-12-14 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Acction
+R1,9545,Francois Brandares,08170030191,INV: Return to Work,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+R1,9545,Francois Brandares,08170049072,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Acction
+R1,9545,Francois Brandares,08180006047,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Tempus
+R1,9545,Francois Brandares,08180029008,INV: Return to Work,2021-12-24 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Acction
+R1,9545,Francois Brandares,08180040634,INV: Hospital,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Unallocated
+R1,9545,Francois Brandares,08180040634,INV: Medical Practitioner,2021-12-21 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Tempus
+R1,9545,Francois Brandares,09920075348,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Acction
+R1,9545,Francois Brandares,12150012058,INV: Worker Reimbursement,2021-12-15 00:00:00,2021-12-14 00:00:00,31,1 - Over 30 Days,Acction
+R1,9546,Gabrielle Ring,08100030255,INV: Medical Practitioner,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+R1,9546,Gabrielle Ring,08180063637,INV: Medical and Like Other,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+R1,9547,Kara Larocca,08170064264,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+R1,9547,Kara Larocca,08180037540,INV: Return to Work,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+R1,9547,Kara Larocca,08180037540,INV: Return to Work,2022-01-06 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+R1,9547,Kara Larocca,08180037540,INV: Return to Work,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+R1,10417,Stavroula Tedesco,04080022095,INV: THP Report,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+R1,10417,Stavroula Tedesco,08940003921,INV: Personal and Household,2021-12-23 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+R1,10417,Stavroula Tedesco,08940003921,INV: Personal and Household,2021-11-29 00:00:00,2021-11-29 00:00:00,46,1 - Over 30 Days,Acction
+R1,10417,Stavroula Tedesco,21170051976,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-22 00:00:00,23,2 - 20 to 30 Days,Tempus
+R1,11463,Peggy Cheng,04190064024,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Unallocated
+R1,11463,Peggy Cheng,08170038698,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-10 00:00:00,4,3 - Under 20 Days,Tempus
+R2,9548,Michael Spence,08170048594,INV: Hospital,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+R2,9548,Michael Spence,08180005323,INV: IME Report,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Acction
+R2,9551,Jacqueline Hanna,08090002856,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+R2,9775,Tom Bonsall,08170010713,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Unallocated
+R2,9775,Tom Bonsall,08170010713,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Acction
+R2,9775,Tom Bonsall,08180008728,INV: Personal and Household,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+R2,9775,Tom Bonsall,08180008728,INV: Personal and Household,2021-12-20 00:00:00,2021-12-20 00:00:00,25,2 - 20 to 30 Days,Acction
+R2,10418,Nickolas Turner,08130057693,INV: Worker Reimbursement,2022-01-04 00:00:00,2021-12-31 00:00:00,14,3 - Under 20 Days,Unallocated
+R2,10418,Nickolas Turner,08170023742,INV: Worker Reimbursement,2021-12-02 00:00:00,2021-12-02 00:00:00,43,1 - Over 30 Days,Tempus
+R2,10418,Nickolas Turner,08170023742,INV: Worker Reimbursement,2021-12-10 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Unallocated
+R2,10418,Nickolas Turner,08170057006,INV: Worker Reimbursement,2022-01-06 00:00:00,2022-01-06 00:00:00,8,3 - Under 20 Days,Unallocated
+R2,10418,Nickolas Turner,08900057247,INV: Personal and Household,2021-12-24 00:00:00,2021-12-23 00:00:00,22,2 - 20 to 30 Days,Unallocated
+R2,10418,Nickolas Turner,12130080660,INV: Medical Practitioner,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+R2,10418,Nickolas Turner,12190035503,INV: Allied Health,2021-12-13 00:00:00,2021-12-13 00:00:00,32,1 - Over 30 Days,Tempus
+R2,11466,Christine Miralles,12140063606,INV: Pharmacy,2021-12-20 00:00:00,2021-12-17 00:00:00,28,2 - 20 to 30 Days,Unallocated
+R2,11466,Christine Miralles,12140063606,INV: Worker Reimbursement,2022-01-05 00:00:00,2022-01-04 00:00:00,10,3 - Under 20 Days,Tempus
+R2,11756,Gemma Walker,08040013141,INV: Surgeon,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+R2,11756,Gemma Walker,08970096254,INV: Medical Practitioner,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+R2,11756,Gemma Walker,09050113730,INV: Hospital,2021-12-29 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Unallocated
+R2,11756,Gemma Walker,14980037999,INV: Personal and Household,2021-12-07 00:00:00,2021-12-03 00:00:00,42,1 - Over 30 Days,Unallocated
+XA,10482,Laura Dyson,08180044708,INV: Impairment Benefits,2021-12-15 00:00:00,2021-12-14 00:00:00,31,1 - Over 30 Days,Acction
+XA,10491,,04190079598,INV: Surgeon,2021-10-04 00:00:00,2021-10-04 00:00:00,102,1 - Over 30 Days,Unallocated
+XA,10491,,08180046667,INV: Allied Health,2021-10-07 00:00:00,2021-10-06 00:00:00,100,1 - Over 30 Days,Tempus
+XA,10491,,08180046667,INV: Allied Health,2021-10-07 00:00:00,2021-10-06 00:00:00,100,1 - Over 30 Days,Tempus
+XA,10491,,08180046667,INV: Allied Health,2021-10-07 00:00:00,2021-10-06 00:00:00,100,1 - Over 30 Days,Unallocated
+XA,10491,,08180046667,INV: Allied Health,2021-10-07 00:00:00,2021-10-06 00:00:00,100,1 - Over 30 Days,Tempus
+XA,10491,,08180046667,INV: Allied Health,2021-10-07 00:00:00,2021-10-06 00:00:00,100,1 - Over 30 Days,Tempus
+ZZ,9258,,08210042094,INV: Worker Reimbursement,2022-01-11 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Unallocated
+ZZ,9400,Myhien Phan,08210038532,INV: Employer Liability,2021-12-20 00:00:00,2022-01-21 00:00:00,25,2 - 20 to 30 Days,Unallocated
+ZZ,9400,Myhien Phan,08210044995,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-31 00:00:00,2,3 - Under 20 Days,Tempus
+ZZ,9445,Abigail Hill,08200002918,INV: Employer Liability,2021-11-26 00:00:00,2021-11-25 00:00:00,50,1 - Over 30 Days,Acction
+ZZ,9892,Marisa Rechichi,08170044763,INV: Impairment Benefits,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+ZZ,9892,Marisa Rechichi,08210035221,INV: Worker Reimbursement,2021-12-20 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Unallocated
+ZZ,9892,Marisa Rechichi,09010078116,INV: Medical Practitioner,2021-12-15 00:00:00,2021-12-15 00:00:00,30,2 - 20 to 30 Days,Tempus
+ZZ,9936,Tahne Wolczecki,08210006849,INV: Employer Liability,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Tempus
+ZZ,9936,Tahne Wolczecki,08210045583,INV: Worker Reimbursement,2022-01-05 00:00:00,2022-01-20 00:00:00,10,3 - Under 20 Days,Unallocated
+ZZ,9937,Tony Nguyen,08210010453,INV: IME Report,2021-12-30 00:00:00,2021-12-30 00:00:00,15,3 - Under 20 Days,Acction
+ZZ,9937,Tony Nguyen,08210031940,INV: IME Report,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+ZZ,9937,Tony Nguyen,08210036547,INV: IME Report,2021-12-10 00:00:00,2021-12-09 00:00:00,36,1 - Over 30 Days,Acction
+ZZ,9937,Tony Nguyen,08210040928,INV: Worker Reimbursement,2021-12-21 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Tempus
+ZZ,9938,Jason Eversteyn,08210025024,INV: THP Report,2021-12-22 00:00:00,2021-12-21 00:00:00,24,2 - 20 to 30 Days,Acction
+ZZ,9938,Jason Eversteyn,08210030857,INV: Worker Reimbursement,2021-12-16 00:00:00,2021-12-16 00:00:00,29,2 - 20 to 30 Days,Acction
+ZZ,9938,Jason Eversteyn,08210036194,INV: IME Report,2021-12-24 00:00:00,2021-12-24 00:00:00,21,2 - 20 to 30 Days,Acction
+ZZ,11738,Lia Tarquinio,08210038202,INV: THP Report,2021-12-30 00:00:00,2021-12-27 00:00:00,18,3 - Under 20 Days,Acction
+ZZ,11738,Lia Tarquinio,08210038202,INV: IME Report,2022-01-11 00:00:00,2022-01-11 00:00:00,3,3 - Under 20 Days,Unallocated
+ZZ,11738,Lia Tarquinio,08210041956,INV: Employer Liability,2022-01-10 00:00:00,2022-01-05 00:00:00,9,3 - Under 20 Days,Unallocated
+ZZ,11738,Lia Tarquinio,08210043161,INV: Worker Reimbursement,2022-01-12 00:00:00,2022-01-12 00:00:00,2,3 - Under 20 Days,Unallocated
